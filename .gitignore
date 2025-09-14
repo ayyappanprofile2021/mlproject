@@ -1,3 +1,6 @@
+#This file is to disalllow the below files list to be commited.
+#Example: venv/ is not committed as it is mentioned in this file.
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
