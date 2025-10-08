@@ -17,6 +17,6 @@ logging.basicConfig(
 
 
 #Below condition is true when we execute this file using command 'Python src\logger.py'.
-if __name__ == '__main__':
-    logging.info('Logging has been started!')
+# if __name__ == '__main__':
+#     logging.info('Logging has been started!')
 
